@@ -2,7 +2,6 @@ name: java-oop-env
 channels:
   - conda-forge
 dependencies:
-  - graphviz
   - pip
   - pip:
     - graphviz
