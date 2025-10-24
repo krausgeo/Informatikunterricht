@@ -1,0 +1,9 @@
+name: java-oop-env
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.8
+  - graphviz
+  - pip
+  - pip:
+    - graphviz
