@@ -1,4 +1,0 @@
-#!/bin/bash
-set -e
-# optional Python-Pakete installieren
-pip install graphviz
