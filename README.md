@@ -15,4 +15,4 @@ Für die Colab-Version: einfach öffnen in Colab (siehe Link). Die erste Zelle i
 ## Lizenz
 Dieses Material steht unter einer nicht-kommerziellen Nutzungslizenz:
 Creative Commons Namensnennung–Nicht kommerziell 4.0 International (CC BY-NC 4.0).
-© 2025 [Dein Name / Institution]
+© 2025 [Georg Kraus]
