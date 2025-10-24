@@ -1,7 +1,0 @@
-name: java-oop-env
-channels:
-  - conda-forge
-dependencies:
-  - pip
-  - pip:
-    - graphviz
